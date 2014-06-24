@@ -1,5 +1,6 @@
 package com.visualbuilder.struts;
 //test
+//
 import java.util.ResourceBundle;
 
 /*
