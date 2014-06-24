@@ -2,6 +2,7 @@ package com.visualbuilder.struts;
 //test
 //test another
 //
+
 import java.util.ResourceBundle;
 
 /*
